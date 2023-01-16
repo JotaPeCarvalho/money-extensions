@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension", "MoneyExtension\MoneyExtension.csproj", "{5F3AFB9E-80AD-4BA6-B91F-4EAE64F7591D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyExtension.Test", "MoneyExtension.Test\MoneyExtension.Test.csproj", "{5E90F588-C6AB-4C4A-B2E0-4BDD68E98694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F3AFB9E-80AD-4BA6-B91F-4EAE64F7591D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3AFB9E-80AD-4BA6-B91F-4EAE64F7591D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3AFB9E-80AD-4BA6-B91F-4EAE64F7591D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3AFB9E-80AD-4BA6-B91F-4EAE64F7591D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E90F588-C6AB-4C4A-B2E0-4BDD68E98694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E90F588-C6AB-4C4A-B2E0-4BDD68E98694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E90F588-C6AB-4C4A-B2E0-4BDD68E98694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E90F588-C6AB-4C4A-B2E0-4BDD68E98694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
